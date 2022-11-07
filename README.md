@@ -1,6 +1,6 @@
 ## Olá eu sou o Gustavo William 👋
 
-- 🔭 Trabalho com projetos pra mim mesmo
+- 🔭 Trabalho em projetos pra mim mesmo
 - 🌱 Estudando programação em c
 - 👯 Contate-me no email: gusvoo@gmail.com
 
