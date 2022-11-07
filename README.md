@@ -18,8 +18,7 @@
 </div>
 
 ##
-<!--
+
 <div> 
   ![Snake animation](https://github.com/gusvoo/gusvoo/blob/output/github-contribution-grid-snake.svg)
 </div>
--->
